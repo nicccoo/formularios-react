@@ -1,7 +1,7 @@
 ### Practica validacion de formularios en react y styled components
 
 
-<img src="./forms.png" align="center" alt=""/>
+<img src="./forms.png" width="100%" alt=""/>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
